@@ -234,6 +234,11 @@ class DataVisualizer:
         return plot
 
 
+def new_function():
+    print("This is a new function.")
+
+
+
 if __name__ == "__main__":
     db_manager = DatabaseManager('My_database')
 
